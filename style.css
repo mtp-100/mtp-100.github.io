@@ -121,7 +121,7 @@ background-attachment: fixed;
     font-weight: 20px;
 }
 #milestone{
-    background-image: url(./images/slide4.jpg);
+    background-image: url(./images/led1.jpg);
     background-position: center;
     background-size: cover;
 }
@@ -163,7 +163,7 @@ background-attachment: fixed;
     display: flex;
 }
 #reviews{
-    background-image: url(./images/slide7.jpg);
+    background-image: url(./images/arduino4.jpg);
     background-position: center;
     background-size: cover;
 }
